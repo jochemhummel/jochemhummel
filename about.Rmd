@@ -1,0 +1,19 @@
+---
+title: "About"
+output: html_document
+---
+
+Welcome, my name is Jochem Hummel and I am a fourth year PhD student at the Knowledge, Information, and Innovation (KIN) research group at the Vrije Universiteit Amsterdam.
+
+***
+
+####Launguages
+**Spoken**	English (fluent), Dutch (native), German (basic)  
+**Computer**	R (fluent), Python (fluent)
+
+***
+
+####Hobbies
+Marathon running
+
+***

@@ -1,0 +1,27 @@
+---
+title: "Awards, Grants, and Honors"
+output: html_document
+---
+Below an overview of Awards, Grants, and Honors I have received.
+
+***
+
+####Awards
+- **2018** 2018 Finalist Max Boisot Award, *European Group of Organization Studies*
+- **2017** 2017 Reviewing Award, OMT Division, *Academy of Management*  
+- **2017** 2017 Reviewing Award, TIM Division, *Academy of Management*  
+- **2016** 2016 Reviewing Award, OMT Division, *Academy of Management*
+
+***
+####Grants
+- **2017** Erasmus+ grant (1,500 euro) for research at Cambridge Judge Business School
+
+***
+
+####Honors
+- **2017**	Participant OMT Doctoral Consortium, 77th Annual Meeting of the Academy of Management (Atlanta, GA)
+- **2017** Honorary Member Trinity Hall, constituent college University of Cambridge
+
+***
+
+![](http://www.jochemhummel.com/IMG_5748.jpg)

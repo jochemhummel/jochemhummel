@@ -1,0 +1,24 @@
+---
+title: "Research Statement"
+output: html_document
+---
+Below a more detailed description of my current research focus and future research streams.
+
+***
+**Current research**  
+My research focuses on understanding the strategic mechanisms and practices used by organizations in complex multi-actor collaborations to mobilize support and pursue big goals related to digital innovation. My first priority lies with doing highly rigorous, qualitative, empirical work. For example, my dissertation research concerns a longitudinal empirical study of a collaboration between 'big science' and 'big business' called *Helix Nebula*, where I analyze how large scientific institutes (CERN, EMBL, ESA) collaborate with commercial cloud computing organizations (Atos, T-Systems), and public infrastructure providers (EGI, GEANT), to develop a European scientific cloud computing infrastructure. In one empirical paper, I analyze the processes through which the organizations manage pluralism by forming emerging micro-alliances of decision-making and legitimating actors around technical options for a cloud computing infrastructure. In another empirical paper, together with Prof. Shaz Ansari, I study the aspect of goals in complex multi-actor collaborations. I analyze the micro-level strategies and framing mechanisms organizations use to keep the broad goals that motivated the collaboration relevant despite emerging conflicts on subgoals.
+
+My research is grounded in science and technology studies and process research, and I link my work on complex multi-actor collaborations driven by digital innovation to various literatures, including organizational pluralism, resourcing, framing, and new ways of organizing. I typically do process research, and through my interest in micro-level dynamics I also have knowledge of practice theory and its relevant methodologies. I am a passionate qualitative researcher (case study and ethnographic methods). Driven by my determination for methodological rigor I have adopted digital methods for qualitative data as a complementary analysis technique. For example, for the second empirical paper of my dissertation I use Latent Dirichlet Allocation (a topic modelling technique from computer linguistics) to extract topics from 11,000 internal text documents (e-mails, documents, presentations) and use measures from communication studies and clustering methods to analyze the relationships between topics over time.
+
+![](http://www.jochemhummel.com/Data+_2.jpg)
+
+***
+**Future research**  
+In future research, I want to expand my work on complex multi-actor collaborations driven by digital innovation by studying the boundaries of possibility and constraint in digital innovation. In other words, the first direction of my future research is on ***the politics of digital innovation***. This research will study the strategies organizations use to balance competing interests in collaborative digital innovation. I will explore how complex multi-actor collaborations engage with their different value networks, including practices for balancing technological possibilities and organizational constraints. To put this forward, I have arranged future multi-year data collection access at CERN to study a new project where 10 different science organizations orchestrate digital innovation with and between commercial cloud computing companies. 
+
+A second stream of future research is on ***how digital technology shapes collaboration***. Here, I want to study the role of digital technologies -- i.e. product, platforms, and infrastructure system architectures -- in structuring collaborative innovation. For example, in my literature review on openness I describe how digital innovation requires firms to alternate between opening and closing system architectures to create and appropriate value from collaborative innovation. Furthermore, in a co-authored longitudinal study of the home automation industry, I discuss how digital technologies create collaboration options, leading firms to adopt dynamic platform openness strategies. Future research in this stream includes empirical phenomena like open data -- e.g. ESA satellite data -- to study how digital technology shapes collaboration.  
+
+My third stream of future research is on ***managing the (in-)completeness of digital innovation***. As digital innovation is incomplete by design and continuously changing, competing interests and collaboration dynamics rarely stabilize. It is important to understand the management processes of reaching and punctuating digital innovation equilibria. I want to use my knowledge of digital methods to collect and analyze longitudinal qualitative data -- e.g. from digital collaboration platforms like Wikipedia -- to study the underlying processes making and managing the (in-)completeness of digital innovations.
+
+
+***

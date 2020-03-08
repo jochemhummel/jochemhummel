@@ -1,0 +1,21 @@
+---
+title: "Contact"
+output: html_document
+---
+Contact information
+
+jochem[DOT]hummel [AT] wbs [DOT] ac [DOT] uk  
+
+
+[Google scholar](https://scholar.google.com/citations?hl=en&user=UbLh3LQAAAAJ#)  
+[Warwick Business School](https://www.wbs.ac.uk/about/person/jochem-hummel)  
+
+Jochem Hummel  
+Warwick Business School, University of Warwick  
+Gibbet Hill Road, ISM Group, room 1.023  
+Coventry  
+CV4 7AL, United Kingdom  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.3415363780014!2d-1.5678119843182408!3d52.38235865417322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48774ace199a3dbd%3A0x6d3da18bcf89f003!2sWarwick%20Business%20School!5e0!3m2!1sen!2suk!4v1583440426505!5m2!1sen!2suk" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+***

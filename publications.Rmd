@@ -1,0 +1,25 @@
+---
+title: "Publications"
+output: html_document
+---
+Below you find an overview of my publications.
+
+***
+- Hummel, J.T. & Amiryany Araghy, N. (2015). Determinants of Acquisition Performance: A Multi-Industry Analysis. In C.L. Cooper & S. Finkelstein (Eds.), ***Advances in mergers and acquisitions***, Vol. 14 (pp. 143-169). Bingley, UK: Emerald Group Publishing Limited.
+
+***
+####Working papers
+- Hummel, J.T., Ansari, S., Berends, H., Tuertscher, P. Keeping goals relevant in multi-actor collaborations. ***Work in progress***
+- Hummel, J.T., Berends, H., & Tuertscher, P. What do we have in common? The development of common resources in a meta-organization. ***Work in progress***
+- Hummel, J.T., Berends, H., & Tuertscher, P. Dimensions of open innovation: A systematic review of knowledge flows and system architectures. ***Work in progress***
+- Berends, H., Deken, F., & Hummel, J.T. The development of platform strategies for coopetition in home automation. ***Work in progress***
+
+***
+####Conference proceedings
+- Hummel, J.T., Berends, J.J., & Tuertscher, P. (2017). What do we have in common? The development of common resources in a meta-organization. In ***Academy of Management Proceedings***, 17600.
+
+- Hollen, R.M.A., Van Den Bosch, F.A.J., & Hummel, J.T. (2015). How changes in the organizing and managing of meta-organizations contribute to their performance. In ***Academy of Management Proceedings***, 18897.
+
+***
+
+![](http://www.jochemhummel.com/IMG_1950.JPG)

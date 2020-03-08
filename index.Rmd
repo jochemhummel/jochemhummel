@@ -1,0 +1,73 @@
+---
+title: "Jochem Thomas Hummel"
+output: html_document
+---
+
+Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Professor at [Warwick Business School](https://www.wbs.ac.uk) in the United Kingdom. 
+
+Here you will find information on my life, my research, my publications, and my teaching past and present.  
+
+![](http://www.jochemhummel.com/181130_photo_Jochem.jpg)
+
+***
+#### Overview
+My research focuses on understanding the organizing mechanisms and processes used by organizations in **complex interorganziational collaborations** to pursue broad goals related to **digital innovation**. My first priority lies with doing highly rigorous, qualitative, empirical research. For example, my dissertation research concerns a longitudinal study of a collaboration between "big science" and "big business: called [***Helix Nebula***](http://helix-nebula.eu), where I analyze how large scientific institutes (CERN, EMBL, ESA) collaborate with commercial cloud computing organizations (Atos, T-Systems), and public infrastructure providers (EGI, GEANT), to develop a *European scientific cloud computing infrastructure*. 
+  
+I am a passionate **qualitative researcher** (case study and ethnographic methods). I typically do **process research**, and through my interest in **micro-level dynamics** I also have knowledge of **practice theory**. 
+Driven by my determination for methodological rigor I have adopted **digital methods for qualitative data** as a complementary analysis technique. 
+
+* **2020**
+  + Visiting scholar Miami [Herbert Business School](https://www.bus.miami.edu) – invited by Prof. Ola Henfridsson
+  + Papers under review and Organization Science, MIS Quarterly (MISQ), JAIS, MISQ E
+  + Senior tutor for first year  International Management and Foundation year students at Warwick Business School
+
+* **2019**
+  + Succesfully defended PhD dissertation 'Collaboration and innovation between heterogeneous actors' at Vrije Universiteit Amsterdam 
+  + Award for outstanding contribution to teaching at Warwick Business School
+  + Award for outstanding contribution to pastroral care at Warwick Business School
+  + Working on  paper with Prof. Ola Henfridsson
+
+* **2018**
+  + Joined Warwick Business School as Assistant Professor in the Information Systems Management Group
+  + Reveived of the 2018 EGOS Max Boisot Award for outstanding papers by early career scholars contributing to knowledge-based studies of complex organizations ([link](https://www.egosnet.org/egos/about_egos/egos_annual_award_in_honour_of_max_boisot_1))
+
+* **2017**
+  + Visiting PhD at the Cambridge Judge Business School, invited by Prof. Shaz Ansari
+  + Awarded the ABCD Reviewing Award -- two years in a row -- of the OMT division (AOM)
+  + Awarded TIM division Reviewing Award
+
+* **2016**
+  + Awarded the ABCD Reviewing Award of the OMT division (AOM)
+
+***
+#### Research Interests
+**Theory**  
+complex interorganizational collaboration, generativity, development of artificial intelligence systems, science and technology studies, organizational pluralism, organizational resourcing, framing, new ways of organizing, open innovation
+
+\hfill\break
+
+**Phenomena**  
+Digital innovation, big science, science-business collaborations, platforms and ecosystems
+
+\hfill\break
+
+**Methods**  
+Qualitative methods (case study and ethnographic methods), digital methods for qualitative data (topic modelling, text analysis, sequence analysis, cluster analysis)
+
+***
+#### Teaching Interests
+technology and innovation, digital innovation, qualitative research methods, digital methods for qualitative data, strategic management, open and user innovation, knowledge management, business research methods, new ways of organizing
+
+***
+**Sample of lecture on modularity**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8nbNlaXFQpE
+" target="_blank"><img src="http://img.youtube.com/vi/8nbNlaXFQpE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+https://youtu.be/
+
+
+![](http://www.jochemhummel.com/Promotie_Jochem-54.jpg)
+
+![](http://www.jochemhummel.com/Data+_1.jpg)

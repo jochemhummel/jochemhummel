@@ -1,0 +1,55 @@
+install.packages("flexdashboard")
+
+---
+title: "Untitled"
+author: "Jochem Hummel"
+date: "3/5/2020"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: rows
+---
+Row
+-------------------------------------
+    
+### Jochem Thomas Hummel
+    
+```{r}
+Jochem Thomas Hummel
+Welcome, my name is **Jochem Hummel** and I am an Assistant Professor at [Warwick Business School](https://www.wbs.ac.uk) in the United Kingdom. 
+
+![](http://www.jochemhummel.com/181130_photo_Jochem.jpg)
+```
+  
+Row
+-------------------------------------
+    
+### Overview
+    
+```{r}
+
+```
+  
+###Publications  
+
+```{r}
+
+```
+
+Row
+-------------------------------------
+    
+### Research interests
+    
+```{r}
+
+```
+    
+### Teaching
+
+```{r}
+
+```
+
+Row
+-------------------------------------
+

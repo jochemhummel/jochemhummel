@@ -1,0 +1,36 @@
+---
+title: "Presentations"
+output: html_document
+---
+Below you find an overview of my presentations.
+
+***
+####Peer-reviewed conference presentations
+- **2018**  Keeping goals relevant in multi-actor collaborations. 13th Organization Studies Summer Workshop (Samos, GR)
+- **2017**  Keeping goals relevant -- A study on the collaboration between Big Science and Big Business. Winter Doctoral Conference, Judge Business School (Cambridge, UK)
+- **2017**	Goal dynamics in interorganizational collaborations. 77th Annual Meeting of the Academy of Management (Atlanta, GA)
+- **2017**	What do we have in common? The development of common resources in a meta-organization. 77th Annual Meeting of the Academy of Management (Atlanta, GA)
+- **2017**	Collective action among heterogeneous actors in a meta-organization. 33rd EGOS Colloquium (Copenhagen, DEN)
+- **2017**	Dimensions of open innovation: A systematic review and comparison of knowledge flows and system architectures. DRUID 17 (New York, NY)
+- **2016**	Processes of polycentric governance in Helix Nebula. 76th Annual Meeting of the Academy of Management (Anaheim, CA)
+- **2016**	The development of platform strategies for coopetition in home automation. Strategic Management Society Special Conference 2016 (Rome, IT)
+- **2015**	How changes in the organizing and managing of meta-organizations contribute to their performance. 75th Annual Meeting of the Academy of Management (Vancouver, BC)
+- **2015**	Dimensions of openness in innovation processes: Exploring the connection between openness of system architectures and openness of knowledge flows. 31st EGOS Colloquium (Athens, GR)
+
+***
+####Competitive Workshop Symposia
+- **2017**	Participant PDW on 'Big Science Centers in a new era: Challenges and opportunities for research and practice'. Technical University of Denmark & ESS (Lund, SWE)
+- **2017**	Participant panel symposium 'Designing Organizations to "Win"" in Pluralistic Settings'. 77th Annual Meeting of the Academy of Management (Atlanta, GA)
+- **2016**	Processes of decentralized governance in Helix Nebula. Connections in Action workshop, University of Warwick (Coventry, UK)
+- **2016**	Participant panel symposium 'Collective Action II: Exploring New Connections between Collaboration, Technology, and Organization Design'. 76th Annual Meeting of the Academy of Management (Anaheim, CA)
+- **2015**	Participant OMT Dissertation Proposal Workshop. 75th Annual Meeting of the Academy of Management (Vancouver, BC)
+
+***
+####Invited presentations
+- **2017**	What do we have in common? The development of common resources in Helix Nebula. ABRI PhD Day, Vrije Universiteit Amsterdam (Amsterdam, NLD)
+- **2016**	Processes of polycentric governance in Helix Nebula. Helix Nebula 8th General Assembly, European Space Agency (Frascati, IT)
+- **2016**	Exploring the value of INFOaaS ??? Recap of student projects. Helix Nebula 7th General Assembly, European Molecular Biology Lab (Heidelberg, GER)
+
+***
+
+![](http://www.jochemhummel.com/IMG_0619.jpg)
