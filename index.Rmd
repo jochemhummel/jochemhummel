@@ -7,7 +7,7 @@ Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Profes
 
 Here you will find information on my life, my research, my publications, and my teaching past and present.  
 
-![](https://www.jochemhummel.com/pictures/181130_photo_Jochem.jpg)
+<img src="https://www.jochemhummel.com/pictures/181130_photo_Jochem.jpg" alt="" height=250 width=250   title="Photo Jochem WBS">  
 
 ***
 ##Overview
@@ -66,9 +66,9 @@ technology and innovation, digital innovation, qualitative research methods, dig
 " target="_blank"><img src="http://img.youtube.com/vi/8nbNlaXFQpE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-https://youtu.be/
+<a class="twitter-timeline" data-width="250" data-height="250" href="https://twitter.com/WBSJochem?ref_src=twsrc%5Etfw">Tweets by WBSJochem</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-![](https://www.jochemhummel.com/pictures/Promotie_Jochem-54.jpg)
+<img src="https://www.jochemhummel.com/pictures/Promotie_Jochem-54.jpg" alt="" width=500  title="Promotie Jochem">  
 
-![](https://www.jochemhummel.com/pictures/Data+_1.jpg)
+<img src="https://www.jochemhummel.com/pictures/Data+_1.jpg" alt="" width=500 title="Data+ 1">  
