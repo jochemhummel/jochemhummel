@@ -2,7 +2,6 @@
 title: "Contact"
 output: html_document
 ---
-Contact information
 
 jochem[DOT]hummel [AT] wbs [DOT] ac [DOT] uk  
 
