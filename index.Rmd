@@ -3,7 +3,7 @@ title: "Jochem Thomas Hummel"
 output: html_document
 ---
 
-Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Professor at [Warwick Business School](https://www.wbs.ac.uk) in the United Kingdom. 
+Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Professor in the Information Systems and Management group at [Warwick Business School](https://www.wbs.ac.uk) in the United Kingdom. 
 
 Here you will find information on my life, my research, my publications, and my teaching past and present.  
 
