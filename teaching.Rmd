@@ -6,7 +6,7 @@ Below you find an overview of my teaching and evaluations.
 
 ***
 
-####Strategic Management of Technology & Innovation 3.1
+##Strategic Management of Technology & Innovation 3.1
 - Evaluation 2017: 4.42 (N=13) (1.00 to 5.00 score band, department average: 3.93) 
 - Evaluation 2016: 4.33 (N=15) (1.00 to 5.00 score band, department average: 3.93)  
 - Evaluation 2015: 4.54 (N=13) (1.00 to 5.00 score band, department average: 3.98)  
@@ -14,26 +14,26 @@ Below you find an overview of my teaching and evaluations.
 
 ***
 
-####Business Research Methods 2.4 (2015--now)
+##Business Research Methods 2.4 (2015--now)
 - Evaluation 2016: 4.81 (N=14) (1.00 to 5.00 score band, department average: 3.93)  
 - Evaluation 2015: 4.80 (N=15) (1.00 to 5.00 score band, department average: 3.90)
 
 ***
-####Knowledge Management 3.2 (2014)
+##Knowledge Management 3.2 (2014)
 - Evaluation 2014: 4.87 (N=18) (1.00 to 5.00 score band, department average: 3.90)
 
 ***
 
-####Technology & Innovation Processes 4.2 (2016--now)
+##Technology & Innovation Processes 4.2 (2016--now)
 Course project coordinator where Master students collaborate with ESA scientists developing innovative applications for using satellite data
 
 ***
 
-####Thesis supervision at Vrije Universiteit Amsterdam (2014--now)
+##Thesis supervision at Vrije Universiteit Amsterdam (2014--now)
 
 ***
 
-####Volunteer teaching work
+##Volunteer teaching work
 - Invited lecturer PhD teaching seminar Cambridge Judge Business School (2017)
 - Invited lecturer Business in Society Research Master on digital methods (2017)  
 - Invited lecturer Business in Society Research Master on academic reading skills (2016)  
@@ -41,4 +41,4 @@ Course project coordinator where Master students collaborate with ESA scientists
 
 ***
 
-![](http://www.jochemhummel.com/IMG_t.png)
+![](http://www.jochemhummel.com/pictures/IMG_t.png)

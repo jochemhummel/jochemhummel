@@ -10,7 +10,7 @@ My research focuses on understanding the strategic mechanisms and practices used
 
 My research is grounded in science and technology studies and process research, and I link my work on complex multi-actor collaborations driven by digital innovation to various literatures, including organizational pluralism, resourcing, framing, and new ways of organizing. I typically do process research, and through my interest in micro-level dynamics I also have knowledge of practice theory and its relevant methodologies. I am a passionate qualitative researcher (case study and ethnographic methods). Driven by my determination for methodological rigor I have adopted digital methods for qualitative data as a complementary analysis technique. For example, for the second empirical paper of my dissertation I use Latent Dirichlet Allocation (a topic modelling technique from computer linguistics) to extract topics from 11,000 internal text documents (e-mails, documents, presentations) and use measures from communication studies and clustering methods to analyze the relationships between topics over time.
 
-![](http://www.jochemhummel.com/Data+_2.jpg)
+![](http://www.jochemhummel.com/pictures/Data+_2.jpg)
 
 ***
 **Future research**  
