@@ -10,7 +10,7 @@ Here you will find information on my life, my research, my publications, and my 
 ![](http://www.jochemhummel.com/181130_photo_Jochem.jpg)
 
 ***
-#### Overview
+##Overview
 My research focuses on understanding the organizing mechanisms and processes used by organizations in **complex interorganziational collaborations** to pursue broad goals related to **digital innovation**. My first priority lies with doing highly rigorous, qualitative, empirical research. For example, my dissertation research concerns a longitudinal study of a collaboration between "big science" and "big business: called [***Helix Nebula***](http://helix-nebula.eu), where I analyze how large scientific institutes (CERN, EMBL, ESA) collaborate with commercial cloud computing organizations (Atos, T-Systems), and public infrastructure providers (EGI, GEANT), to develop a *European scientific cloud computing infrastructure*. 
   
 I am a passionate **qualitative researcher** (case study and ethnographic methods). I typically do **process research**, and through my interest in **micro-level dynamics** I also have knowledge of **practice theory**. 
@@ -40,7 +40,7 @@ Driven by my determination for methodological rigor I have adopted **digital met
   + Awarded the ABCD Reviewing Award of the OMT division (AOM)
 
 ***
-#### Research Interests
+##Research Interests
 **Theory**  
 complex interorganizational collaboration, generativity, development of artificial intelligence systems, science and technology studies, organizational pluralism, organizational resourcing, framing, new ways of organizing, open innovation
 
@@ -55,7 +55,7 @@ Digital innovation, big science, science-business collaborations, platforms and 
 Qualitative methods (case study and ethnographic methods), digital methods for qualitative data (topic modelling, text analysis, sequence analysis, cluster analysis)
 
 ***
-#### Teaching Interests
+##Teaching Interests
 technology and innovation, digital innovation, qualitative research methods, digital methods for qualitative data, strategic management, open and user innovation, knowledge management, business research methods, new ways of organizing
 
 ***
