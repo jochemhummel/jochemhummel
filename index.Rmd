@@ -1,5 +1,5 @@
 ---
-title: "Jochem Thomas Hummel"
+title: "Home"
 output: html_document
 ---
 

@@ -1,6 +1,6 @@
 library("rmarkdown")
 
-setwd("/Users/jochemhummel/Desktop/website/")
+setwd("/Users/jochemhummel/jochemhummel/")
 getwd()
 
 ###Render index.Rmd
