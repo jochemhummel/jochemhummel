@@ -3,7 +3,7 @@ title: "CV"
 output: html_document
 ---
 
-Please find my CV [***here***](http://www.jochemhummel.com/180116_AcademicCurriculumVitae_JochemHummel.pdf).
+Please find my CV [***here***](http://www.jochemhummel.com/cv/200307_AcademicCurriculumVitae_JochemHummel.pdf).
 
 ***
 
