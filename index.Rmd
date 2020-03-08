@@ -7,7 +7,7 @@ Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Profes
 
 Here you will find information on my life, my research, my publications, and my teaching past and present.  
 
-![](http://www.jochemhummel.com/pictures/181130_photo_Jochem.jpg)
+![](https://www.jochemhummel.com/pictures/181130_photo_Jochem.jpg)
 
 ***
 ##Overview
@@ -68,6 +68,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 https://youtu.be/
 
 
-![](http://www.jochemhummel.com/pictures/Promotie_Jochem-54.jpg)
+![](https://www.jochemhummel.com/pictures/Promotie_Jochem-54.jpg)
 
-![](http://www.jochemhummel.com/pictures/Data+_1.jpg)
+![](https://www.jochemhummel.com/pictures/Data+_1.jpg)
