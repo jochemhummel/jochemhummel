@@ -21,6 +21,9 @@ render("presentations.Rmd", output_file = "presentations.html")
 ###Render teaching.Rmd
 render("teaching.Rmd", output_file = "teaching.html")
 
+###Render index.Rmd
+render("aquarelle.Rmd", output_file = "aquarelle.html")
+
 ###Render cv.Rmd
 render("cv.Rmd", output_file = "cv.html")
 
