@@ -1,0 +1,15 @@
+---
+title: "aquarelle"
+author: "Jochem Hummel"
+date: "3/12/2020"
+output: html_document
+---
+
+<img src="https://www.jochemhummel.com/pictures/200312_Autumn2019_JTHummel.jpg" alt="" height=500   title="Autumn 2019">  
+**Autumn 2019**  
+
+***
+<img src="https://www.jochemhummel.com/pictures/200312_Winter2020_JTHummel.jpg" alt="" width=500   title="Winter 2020">  
+**Winter 2020**
+
+
