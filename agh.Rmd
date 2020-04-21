@@ -1,5 +1,5 @@
 ---
-title: "Awards, Grants, and Honors"
+title: "Awards"
 output: html_document
 ---
 Below an overview of Awards, Grants, and Honors I have received.
