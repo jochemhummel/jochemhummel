@@ -6,7 +6,7 @@ output: html_document
 ---
 
 * **2020**
-  + Wrote an opinion article in Dutch on conflict in collaboration in the Covid-19 crisis [on medium.com](https://medium.com/@jochem.hummel/alleen-samen-met-conflict-en-ruzie-krijgen-we-corona-onder-controle-f63d594159b4)
+  + Wrote an opinion article in Dutch on conflict in collaboration in the Covid-19 crisis "Alleen samen [met conflict en ruzie] krijgen we corona onder controle." [on medium.com](https://medium.com/@jochem.hummel/alleen-samen-met-conflict-en-ruzie-krijgen-we-corona-onder-controle-f63d594159b4)
   
 * **2019**
   + Wrote an article on "How being ‘selfish’ serves the collective interest in the end". KIN Research, White paper, available [here](https://www.kinresearch.nl/being-selfish-serves-the-collective-interest-in-the-end/)

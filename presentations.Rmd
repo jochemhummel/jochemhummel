@@ -6,6 +6,11 @@ Below you find an overview of my presentations.
 
 ***
 ####Peer-reviewed conference presentations
+- **2020**  Keeping goals relevant. 36th EGOS Colloquium (Hamburg, DE)
+- **2019**	How do you know what I need? Defining requirements in developing artificial intelligence for litigation, International Conference on Information Systems 2019 (Munich, DE)
+- **2019**	What do we have in common? A study on the development of an infrastructure of common resources, 6th Innovation in Information Infrastructures Workshop (Guildford, UK)
+- **2019**	What do we have in common? A study on the development of an infrastructure of common resources, DigiEra 2019 conference (Monte Verita, CH)
+- **2018**	Keeping goals relevant in multi-actor collaborations. 78th Annual Meeting of the Academy of Management (Chicago, IL)
 - **2018**  Keeping goals relevant in multi-actor collaborations. 13th Organization Studies Summer Workshop (Samos, GR)
 - **2017**  Keeping goals relevant -- A study on the collaboration between Big Science and Big Business. Winter Doctoral Conference, Judge Business School (Cambridge, UK)
 - **2017**	Goal dynamics in interorganizational collaborations. 77th Annual Meeting of the Academy of Management (Atlanta, GA)
