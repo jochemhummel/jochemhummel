@@ -1,0 +1,13 @@
+---
+title: "journalism"
+author: "Jochem Hummel"
+date: "4/21/2020"
+output: html_document
+---
+
+* **2020**
+  + Wrote an opinion article in Dutch on conflict in collaboration in the Covid-19 crisis [on medium.com](https://medium.com/@jochem.hummel/alleen-samen-met-conflict-en-ruzie-krijgen-we-corona-onder-controle-f63d594159b4)
+  
+* **2019**
+  + Wrote an article on "How being ‘selfish’ serves the collective interest in the end". KIN Research, White paper, available [here](https://www.kinresearch.nl/being-selfish-serves-the-collective-interest-in-the-end/)
+  + Article how collaborative innovation is complex written by Thomas Oomens (based on my PhD research). MarketingTribune, 14, available [here](https://www.marketingtribune.nl/b2b/nieuws/2019/08/marketingscience-innoveren-in-complexe-samenwerkingsverbanden/index.xml?__xsl=cms-print.xsl).

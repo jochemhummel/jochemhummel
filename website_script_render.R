@@ -12,6 +12,9 @@ render("research.Rmd", output_file = "research.html")
 ###Render publications.Rmd
 render("publications.Rmd", output_file = "publications.html")
 
+###Render journalism
+render("journalism.Rmd", output_file = "journalism.html")
+
 ###Render agh.Rmd
 render("agh.Rmd", output_file = "agh.html")
 
