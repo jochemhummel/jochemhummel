@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Research publications"
 output: html_document
 ---
 Below you find an overview of my publications.

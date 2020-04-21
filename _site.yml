@@ -4,11 +4,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "Research profile"
       href: research.html
-    - text: "Publications"
+    - text: "Research publications"
       href: publications.html
-    - text: "Journalism"
+    - text: "News publications""
       href: journalism.html
     - text: "Awards"
       href: agh.html
