@@ -1,5 +1,5 @@
 ---
-title: "News publications"
+title: "Public"
 output: html_document
 ---
 

@@ -6,9 +6,9 @@ navbar:
       href: index.html
     - text: "Research profile"
       href: research.html
-    - text: "Research publications"
+    - text: "Publications"
       href: publications.html
-    - text: "News publications"
+    - text: "Public"
       href: journalism.html
     - text: "Awards"
       href: agh.html
