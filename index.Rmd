@@ -3,18 +3,19 @@ title: "Home"
 output: html_document
 ---
 
-Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Professor in the Information Systems and Management group at [Warwick Business School](https://www.wbs.ac.uk) in the United Kingdom. Here you will find information on my life, my research, my publications, and my teaching past and present.  
+Welcome to my website. My name is **Jochem Hummel** and I am an Assistant Professor in the Information Systems and Management group at [Warwick Business School](https://www.wbs.ac.uk) in the United Kingdom. Here you will find information on my life, my research, my publications, and my teaching past and present.
 
 <img src="https://www.jochemhummel.com/pictures/181130_photo_Jochem.jpg" alt="" height=250 width=250   title="Photo Jochem WBS">  
 
 ***
-##Overview
-My research focuses on understanding the organizing mechanisms and processes used by organizations in **complex interorganziational collaborations** to pursue broad goals related to **digital innovation**. My first priority lies with doing highly rigorous, qualitative, empirical research. For example, my dissertation research concerns a longitudinal study of a collaboration between "big science" and "big business: called [***Helix Nebula***](http://helix-nebula.eu), where I analyze how large scientific institutes (CERN, EMBL, ESA) collaborate with commercial cloud computing organizations (Atos, T-Systems), and public infrastructure providers (EGI, GEANT), to develop a *European scientific cloud computing infrastructure*. 
+## Overview
+My research focuses on understanding the organizing mechanisms and processes used by organizations in **complex interorganizational collaborations** to pursue broad goals related to **digital innovation**. My first priority lies with doing highly rigorous, qualitative, empirical research. For example, my dissertation research concerns a longitudinal study of a collaboration between "big science" and "big business: called [Helix Nebula](http://helix-nebula.eu), where I analyze how large scientific institutes (CERN, EMBL, ESA) collaborate with commercial cloud computing organizations (Atos, T-Systems), and public infrastructure providers (EGI, GEANT), to develop a **European scientific cloud computing infrastructure**. 
   
 I am a passionate **qualitative researcher** (case study and ethnographic methods). I typically do **process research**, and through my interest in **micro-level dynamics** I also have knowledge of **practice theory**. 
 Driven by my determination for methodological rigor I have adopted **digital methods for qualitative data** as a complementary analysis technique. 
 
 * **2020**
+  + Award for outstanding contribution to teaching at Warwick Business School
   + Published an opinion article on conflict in collaboration in the Covid-19 crisis [on medium.com](https://medium.com/@jochem.hummel/alleen-samen-met-conflict-en-ruzie-krijgen-we-corona-onder-controle-f63d594159b4)
   + Visiting scholar [Miami Herbert Business School](https://www.bus.miami.edu) – invited by Prof. Ola Henfridsson
   + Cambridge Science Festival, [presentation](https://www.sciencefestival.cam.ac.uk/events/policing-fashion-how-use-artificial-intelligence-shaping-our-work) with Lauren Waardenburg on 10 March 2020
@@ -22,9 +23,9 @@ Driven by my determination for methodological rigor I have adopted **digital met
   + Senior tutor for first year  International Management and Foundation year students at Warwick Business School
 
 * **2019**
-  + Succesfully defended PhD dissertation 'Collaboration and innovation between heterogeneous actors' at Vrije Universiteit Amsterdam 
+  + Successfully defended PhD dissertation 'Collaboration and innovation between heterogeneous actors' at Vrije Universiteit Amsterdam 
   + Award for outstanding contribution to teaching at Warwick Business School
-  + Award for outstanding contribution to pastroral care at Warwick Business School
+  + Award for outstanding contribution to pastoral care at Warwick Business School
   + Working on  paper with Prof. Ola Henfridsson
 
 * **2018**
@@ -40,7 +41,7 @@ Driven by my determination for methodological rigor I have adopted **digital met
   + Awarded the ABCD Reviewing Award of the OMT division (AOM)
 
 ***
-##Research Interests
+## Research Interests
 **Theory**  
 complex interorganizational collaboration, generativity, development of artificial intelligence systems, science and technology studies, organizational pluralism, organizational resourcing, framing, new ways of organizing, open innovation
 
@@ -55,7 +56,7 @@ Digital innovation, big science, science-business collaborations, platforms and 
 Qualitative methods (case study and ethnographic methods), digital methods for qualitative data (topic modelling, text analysis, sequence analysis, cluster analysis)
 
 ***
-##Teaching Interests
+## Teaching Interests
 technology and innovation, digital innovation, qualitative research methods, digital methods for qualitative data, strategic management, open and user innovation, knowledge management, business research methods, new ways of organizing
 
 ***
