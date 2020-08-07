@@ -5,20 +5,26 @@ output: html_document
 Below you find an overview of my publications.
 
 ***
-- Hummel, J.T. & Amiryany Araghy, N. (2015). Determinants of Acquisition Performance: A Multi-Industry Analysis. In C.L. Cooper & S. Finkelstein (Eds.), ***Advances in mergers and acquisitions***, Vol. 14 (pp. 143-169). Bingley, UK: Emerald Group Publishing Limited.
+#### Published articles and books
++ Hummel, J.T. (2019). Collaboration and innovation between heterogeneous actors. ***PhD dissertation***. Amsterdam, NL: Rozenberg Publisher. ISBN 978–90–3610–557–6
++ Hummel, J.T. & Amiryany Araghy, N. (2015). Determinants of Acquisition Performance: A Multi-Industry Analysis. In C.L. Cooper & S. Finkelstein (Eds.), ***Advances in mergers and acquisitions***, Vol. 14 (pp. 143-169). Bingley, UK: Emerald Group Publishing Limited.
 
 ***
-####Working papers
-- Hummel, J.T., Ansari, S., Berends, H., Tuertscher, P. Keeping goals relevant in multi-actor collaborations. ***Work in progress***
-- Hummel, J.T., Berends, H., & Tuertscher, P. What do we have in common? The development of common resources in a meta-organization. ***Work in progress***
-- Hummel, J.T., Berends, H., & Tuertscher, P. Dimensions of open innovation: A systematic review of knowledge flows and system architectures. ***Work in progress***
-- Berends, H., Deken, F., & Hummel, J.T. The development of platform strategies for coopetition in home automation. ***Work in progress***
+#### Working papers
++ Hummel, J.T, Berends, H., & Tuertscher, P. What Do We Have in Common? Collaboration Between Heterogeneous Organizations for the Development of a Common Infrastructure. Under review at ***Organization Science***.
++ Hummel, J.T, Waardenburg, L., Zhang, Z., & Nandhakumar, J. 2020. Knowledge Coordination Through “Uncoordinated Knowledge Shots” in the Development of Machine Learning AI Systems. Under review at ***Journal of the Association for Information Systems***.
++ Zhang, Z, Nandhakumar, J., Hummel, J.T., & Waardenburg, L. 2020. Addressing Key Challenges of Developing AI Systems for Knowledge Intensive Work. Under review at ***MISQ Executive***.
++ Hummel, J.T., & Henfridsson, O. From Change to Generativity: Explaining Evolution of Information Systems in Digital Environments. 2020. Targeted at ***MIS Quarterly***.
++ Hummel, J.T, Ansari, S., Berends, H., & Tuertscher, P. Keeping goals relevant. 2020. Targeted at ***Academy of Management Journal***.
++ Berends, H., Deken, F., & Hummel, JT. This is not VHS versus Betamax! 2020. The development of platform strategies in home automation. Targeted at ***Strategic Management Journal***.
++ Hummel, J.T, Berends, H., & Tuertscher, P. Dimensions and dynamics of open innovation: A systematic review of knowledge flows and system architectures. 2021. Targeted at ***International Journal of Management Reviews***.
 
 ***
 ####Conference proceedings
-- Hummel, J.T., Berends, J.J., & Tuertscher, P. (2017). What do we have in common? The development of common resources in a meta-organization. In ***Academy of Management Proceedings***, 17600.
-
-- Hollen, R.M.A., Van Den Bosch, F.A.J., & Hummel, J.T. (2015). How changes in the organizing and managing of meta-organizations contribute to their performance. In ***Academy of Management Proceedings***, 18897.
++ Hummel, J.T., Berends, H., & Tuertscher, P. (2018). Keeping goals relevant in multi-actor collaborations. ***Academy of Management Proceedings***, 2018(1), 17198.
++ Berends, H., Deken, F., & Hummel, J.T. 2018. Digitization and the development of platform strategies in home automation. ***Academy of Management Proceedings***, 2018(1), 17745.
++ Hummel, J.T., Berends, H., & Tuertscher, P. (2017). What do we have in common? The development of common resources in a meta-organization. ***Academy of Management Proceedings***, 2017(1), 17600.
++ Hollen, R.M.A., Van Den Bosch, F.A.J., & Hummel, J.T. (2015). How changes in the organizing and managing of meta-organizations contribute to their performance. ***Academy of Management Proceedings***, 2015(1), 18897.
 
 ***
 
