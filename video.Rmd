@@ -1,0 +1,16 @@
+---
+title: "Video"
+output: html_document
+---
+
+###Lecture promo Digital Business Strategy (Master/Postgraduate) 2020
+<a href="https://youtu.be/JN3d_el5wmc" target="_blank"><img src="http://img.youtube.com/vi/JN3d_el5wmc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+###Full lecture Managing Strategy in the Digital Era (Bachelor/Undergraduate) 2019
+<a href="https://www.youtube.com/watch?v=PsyCGGEa_vs" target="_blank"><img src="http://img.youtube.com/vi/PsyCGGEa_vs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+###Lecture promo Managing Strategy in the Digital Era (Bachelor/Undergraduate) 2019
+<a href="https://youtu.be/2OOWz5D55Lk" target="_blank"><img src="http://img.youtube.com/vi/8nbNlaXFQpE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

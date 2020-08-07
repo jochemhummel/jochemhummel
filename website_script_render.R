@@ -12,6 +12,9 @@ render("research.Rmd", output_file = "research.html")
 ###Render publications.Rmd
 render("publications.Rmd", output_file = "publications.html")
 
+###Render video
+render("video.Rmd", output_file = "video.html")
+
 ###Render journalism
 render("journalism.Rmd", output_file = "journalism.html")
 
@@ -25,7 +28,7 @@ render("presentations.Rmd", output_file = "presentations.html")
 render("teaching.Rmd", output_file = "teaching.html")
 
 ###Render index.Rmd
-render("aquarelle.Rmd", output_file = "aquarelle.html")
+#render("aquarelle.Rmd", output_file = "aquarelle.html")
 
 ###Render cv.Rmd
 render("cv.Rmd", output_file = "cv.html")

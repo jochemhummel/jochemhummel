@@ -9,3 +9,5 @@ output: html_document
 * **2019**
   + White paper on "How being ‘selfish’ serves the collective interest in the end." [KIN Research](https://www.kinresearch.nl/being-selfish-serves-the-collective-interest-in-the-end/)
   + Article "Samen innoveren is complex"  by Thomas Oomens based on my PhD research. [MarketingTribune, 14](https://www.marketingtribune.nl/b2b/nieuws/2019/08/marketingscience-innoveren-in-complexe-samenwerkingsverbanden/index.xml?__xsl=cms-print.xsl).
+
+![](https://www.jochemhummel.com/pictures/CODE-DAY3-2565.jpeg)
