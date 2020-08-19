@@ -3,7 +3,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research profile"
+    - text: "Research"
       href: research.html
     - text: "Publications"
       href: publications.html

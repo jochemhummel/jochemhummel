@@ -1,5 +1,5 @@
 ---
-title: "Research profile"
+title: "Research"
 output: html_document
 ---
 Below a more detailed description of my current research focus and future research streams.
