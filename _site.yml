@@ -1,5 +1,5 @@
 navbar:
-  title: "Jochem"
+  title:
   left:
     - text: "Home"
       href: index.html
