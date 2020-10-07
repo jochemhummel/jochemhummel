@@ -3,7 +3,7 @@ title: "Contact"
 output: html_document
 ---
 
-jochem[DOT]hummel [AT] wbs [DOT] ac [DOT] uk  
+jochem  [DOT]  hummel [AT] wbs [DOT] ac [DOT] uk  
 
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=UbLh3LQAAAAJ#)  
