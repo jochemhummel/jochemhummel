@@ -5,47 +5,45 @@ output: html_document
 Below you find an overview of my teaching and evaluations.
 
 ***
-#### Digital Business Strategy -- Warwick Business School
-+ Evaluation 2021: 4.65/5.00 (75% response)
-+ Evaluation 2020: 4.62/5.00 (66% response)
+### Module leader Digital Business Strategy -- Postgraduate -- Warwick Business School
++ Evaluation 2021: **4.65/5.00** (75% response) -- 87 students
++ Evaluation 2020: **4.62/5.00** (66% response) -- 76 students
 
-#### Managing Strategy in the Digital Era -- Warwick Business School
-+ Evaluation 2021: 4.65/5.00 (38% response)
-+ Evaluation 2020: 4.62/5.00 (45% response)
-+ Evaluation 2019: 4.64/5.00 (59% response) 
+### Managing Strategy in the Digital Era -- Undergraduate -- Warwick Business School
++ Evaluation 2021: **4.65/5.00** (38% response) -- 167 students
++ Evaluation 2020: **4.62/5.00** (45% response) -- 90 students
++ Evaluation 2019: **4.64/5.00** (59% response) -- 47 students
 
-#### Business IT and Services -- -- Warwick Business School
-+ Evaluation 2019 #2: 4.71/5.00 (87% response)
-+ Evaluation 2019 #1: 4.75/5.00 (83% response)
-
-#### Strategic Management of Technology & Innovation 3.1 -- Vrije Universiteit Amsterdam
-+ Evaluation 2017: 4.42 (N=13) (1.00 to 5.00 score band, department average: 3.93) 
-+ Evaluation 2016: 4.33 (N=15) (1.00 to 5.00 score band, department average: 3.93)  
-+ Evaluation 2015: 4.54 (N=13) (1.00 to 5.00 score band, department average: 3.98)  
+### Business IT and Services -- Postgraduate -- Warwick Business School
++ Evaluation 2019 #2: **4.71/5.00** (87% response) -- 80 students
++ Evaluation 2019 #1: **4.75/5.00** (83% response) -- 73 students
 
 ***
 
-#### Business Research Methods 2.4 -- Vrije Universiteit Amsterdam
-- Evaluation 2016: 4.81 (N=14) (1.00 to 5.00 score band, department average: 3.93)  
-- Evaluation 2015: 4.80 (N=15) (1.00 to 5.00 score band, department average: 3.90)
+### Strategic Management of Technology & Innovation 3.1 -- Vrije Universiteit Amsterdam
++ Evaluation 2017: **4.42/5.00** (N=13) (department average: 3.90) 
++ Evaluation 2016: **4.33/5.00** (N=15) (department average: 3.90)
++ Evaluation 2015: **4.54/5.00** (N=13) (department average: 3.90)
+
+### Business Research Methods 2.4 -- Vrije Universiteit Amsterdam
++ Evaluation 2016: **4.81/5.00** (N=14) (department average: 3.90)
++ Evaluation 2015: **4.80/5.00** (N=15) (department average: 3.90)
+
+### Knowledge Management 3.2 -- Vrije Universiteit Amsterdam
++ Evaluation 2014: **4.87/5.00** (N=18) (department average: 3.90)
 
 ***
 
-#### Knowledge Management 3.2 -- Vrije Universiteit Amsterdam
-+ Evaluation 2014: 4.87 (N=18) (1.00 to 5.00 score band, department average: 3.90)
-
-***
-
-#### Technology & Innovation Processes 4.2 -- Vrije Universiteit Amsterdam
+### Technology & Innovation Processes 4.2 -- Vrije Universiteit Amsterdam
 Course project coordinator where Master students collaborate with ESA scientists developing innovative applications for using satellite data
 
 ***
 
-#### Thesis supervision at Vrije Universiteit Amsterdam (2014--2018)
+### Thesis supervision at Vrije Universiteit Amsterdam (2014--2018)
 
 ***
 
-#### Volunteer teaching work
+### Volunteer teaching work
 - Invited lecturer PhD teaching seminar Cambridge Judge Business School (2017)
 - Invited lecturer Business in Society Research Master on digital methods (2017)  
 - Invited lecturer Business in Society Research Master on academic reading skills (2016)  
