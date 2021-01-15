@@ -5,10 +5,14 @@ output: html_document
 Below you find an overview of my teaching and evaluations.
 
 ***
+#### Digital Business Strategy -- Warwick Business School
++ Evaluation 2021: 4.65/5.00 (75% response)
++ Evaluation 2020: 4.62/5.00 (66% response)
 
 #### Managing Strategy in the Digital Era -- Warwick Business School
++ Evaluation 2021: 4.65/5.00 (38% response)
 + Evaluation 2020: 4.62/5.00 (45% response)
-+ Evaluation 2019: 4.64/5.00 (59% response)
++ Evaluation 2019: 4.64/5.00 (59% response) 
 
 #### Business IT and Services -- -- Warwick Business School
 + Evaluation 2019 #2: 4.71/5.00 (87% response)
