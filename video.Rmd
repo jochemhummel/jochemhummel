@@ -4,6 +4,10 @@ output: html_document
 ---
 Below you find some videos with me in it.
 
+### How I start my (online) undergraduate lectures – GET MOTIVATED TO STUDY 
+<a href="https://youtu.be/DJ5Y4jj4-To" target="_blank"><img src="http://img.youtube.com/vi/DJ5Y4jj4-To/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 #### Lecture promo Digital Business Strategy (Master/Postgraduate) 2020
 <a href="https://youtu.be/JN3d_el5wmc" target="_blank"><img src="http://img.youtube.com/vi/JN3d_el5wmc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
