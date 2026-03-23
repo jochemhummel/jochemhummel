@@ -17,7 +17,5 @@ navbar:
       href: teaching.html
     - text: "Video"
       href: video.html
-    - text: "CV"
-      href: cv.html
     - text: "Contact"
       href: contact.html
